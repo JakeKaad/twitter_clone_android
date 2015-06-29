@@ -2,5 +2,8 @@
     <string name="app_name">twitter</string>
     
     <string name="hello_world">Hello world!</string>
+    <string name="timezone">PST</string>
+    <string name="formatted_time">EEEE, MMMM d \'at\' h:mm</string>
+        <string name="title_activity_search">SearchActivity</string>
     <string name="action_settings">Settings</string>
 </resources>
